@@ -1,0 +1,16 @@
+HOW TO INSTALL
+
+1. COPY THE OBS FOLDER TO YOUR XAMPP/HTDOCS DIRECTORY
+
+2. SET UP A NEW DATABASE CALLED 'obs', DATABASE USER ('user@obs') AND PASSWORD ('$dnhzi37_b&$77bn')
+
+3. IMPORT THE obs.sql file into the DATABASE to create the tables
+
+4.LAUNCH YOUR PROJECT 
+
+5. LOG IN AS ADMIN WITH
+
+ADMIN CREDENTIALS
+
+email: admin@mail.com
+password: administrator
